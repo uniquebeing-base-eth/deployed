@@ -1,0 +1,4 @@
+- [ ] Adapt the original DEPLOY duck mascot to the uploaded character reference while preserving the site's visual identity.
+- [ ] Refresh sample NFT art with consistent duck-character design and plain backgrounds; switch NFT chain labeling to Base.
+- [ ] Add an easy, direct sticker-pack download.
+- [ ] Check the mobile preview, sticker download, and current build status.
